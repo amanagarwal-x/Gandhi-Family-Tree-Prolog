@@ -1,6 +1,6 @@
 # Gandhi-Family-Tree-Prolog
 
-This a Prolog program that I have created as an assignment for my CS312 Artificial Intelligence Course.You can run this code using any prolog compiler.
+This a Prolog program that I have created as an assignment for my CS312 Artificial Intelligence Course. You can run this code using any prolog compiler.
 
 This program contains a knowledge base system of Gandhi Family Relations, and uses facts and rules to create a Family tree of any member of the Gandhi family,
 

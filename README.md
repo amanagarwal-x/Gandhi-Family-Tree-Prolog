@@ -6,9 +6,9 @@ This program contains a knowledge base system of Gandhi Family Relations, and us
 
 run() command can be used to see the instructions and details
 
-Write tree(<name>). to view family tree of any member of the Gandhi family!
+Write `tree(<name>).` to view family tree of any member of the Gandhi family!
 
-For example, type tree(rahul). to see the family tree of Rahul Gandhi
+For example, type `tree(rahul).` to see the family tree of Rahul Gandhi
 
 Iterable family members are rahul, sonia, rajiv, priyanka, feroze, indira.
 

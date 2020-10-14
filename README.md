@@ -14,7 +14,7 @@ Iterable family members are rahul, sonia, rajiv, priyanka, feroze, indira.
 
 NOTE: Enter names of people in small case only
 
-NOTE: PRESS ; AFTER EACH RELATION TO DISPALY THE NEXT RELATION
+NOTE: Press ; after each relation to display the next relation
 
 Example output
 

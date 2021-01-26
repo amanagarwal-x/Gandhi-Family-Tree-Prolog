@@ -38,5 +38,4 @@ true ;
 
 Uncle/Aunt: sanjay
 true ;
-false.
 ```
